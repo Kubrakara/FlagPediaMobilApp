@@ -44,4 +44,6 @@ Uygulama, şu anda **Google Play de** yayında indirebilirsiniz :
 
 📥 **[https://play.google.com/store/apps/details?id=dev.expo.flagpedia](#)**
 
+![WhatsApp Görsel 2025-05-15 saat 18 29 04_5a341ac8](https://github.com/user-attachments/assets/068aa736-6b21-4c98-b9b6-374d91af5756)
+
 ---
